@@ -1,0 +1,2530 @@
+fileFormatVersion: 2
+guid: 5b35ff50e5e36f949a9e6628224fd6fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8863708006763470558
+    second: TempCharacterSprites_0
+  - first:
+      213: 4898415733466115569
+    second: TempCharacterSprites_1
+  - first:
+      213: -4223695068177636157
+    second: TempCharacterSprites_2
+  - first:
+      213: 5041582202742925969
+    second: TempCharacterSprites_3
+  - first:
+      213: -6387080502927287566
+    second: TempCharacterSprites_4
+  - first:
+      213: -4065122120738478451
+    second: TempCharacterSprites_5
+  - first:
+      213: -7578979560869768966
+    second: TempCharacterSprites_6
+  - first:
+      213: -1442768495344826514
+    second: TempCharacterSprites_7
+  - first:
+      213: 8347888041218778172
+    second: TempCharacterSprites_8
+  - first:
+      213: -3400311540864683492
+    second: TempCharacterSprites_9
+  - first:
+      213: -253842874514217713
+    second: TempCharacterSprites_10
+  - first:
+      213: 1910556484017043812
+    second: TempCharacterSprites_11
+  - first:
+      213: 2322753443273847555
+    second: TempCharacterSprites_12
+  - first:
+      213: -5372107978113884808
+    second: TempCharacterSprites_13
+  - first:
+      213: 9134769067995048895
+    second: TempCharacterSprites_14
+  - first:
+      213: 7580680741115064769
+    second: TempCharacterSprites_15
+  - first:
+      213: 2868109425713246919
+    second: TempCharacterSprites_16
+  - first:
+      213: -6590178339240133285
+    second: TempCharacterSprites_17
+  - first:
+      213: 5326408339124866663
+    second: TempCharacterSprites_18
+  - first:
+      213: 4890760474227870639
+    second: TempCharacterSprites_19
+  - first:
+      213: 1319778988151581272
+    second: TempCharacterSprites_20
+  - first:
+      213: 5018814001688212491
+    second: TempCharacterSprites_21
+  - first:
+      213: 1183803955183457005
+    second: TempCharacterSprites_22
+  - first:
+      213: -1355547442587563188
+    second: TempCharacterSprites_23
+  - first:
+      213: -6490786590024721211
+    second: TempCharacterSprites_24
+  - first:
+      213: -4056392473436076474
+    second: TempCharacterSprites_25
+  - first:
+      213: -2462397903778477522
+    second: TempCharacterSprites_26
+  - first:
+      213: 4517839495912427757
+    second: TempCharacterSprites_27
+  - first:
+      213: 5932336747358351327
+    second: TempCharacterSprites_28
+  - first:
+      213: -6123730937873775751
+    second: TempCharacterSprites_29
+  - first:
+      213: 2825036186951076450
+    second: TempCharacterSprites_30
+  - first:
+      213: 6002840338026282283
+    second: TempCharacterSprites_31
+  - first:
+      213: -7127819215221394458
+    second: TempCharacterSprites_32
+  - first:
+      213: 4825226041455976721
+    second: TempCharacterSprites_33
+  - first:
+      213: 5936572385085377998
+    second: TempCharacterSprites_34
+  - first:
+      213: 1436552660948596898
+    second: TempCharacterSprites_35
+  - first:
+      213: -5820631710320499934
+    second: TempCharacterSprites_36
+  - first:
+      213: -12518249229559226
+    second: TempCharacterSprites_37
+  - first:
+      213: 5994176928387130693
+    second: TempCharacterSprites_38
+  - first:
+      213: 5337375464370812275
+    second: TempCharacterSprites_39
+  - first:
+      213: 2522804536022211256
+    second: TempCharacterSprites_40
+  - first:
+      213: 3742514700991078922
+    second: TempCharacterSprites_41
+  - first:
+      213: 408165063797154153
+    second: TempCharacterSprites_42
+  - first:
+      213: -4578801359758212406
+    second: TempCharacterSprites_43
+  - first:
+      213: -3276735828160329010
+    second: TempCharacterSprites_44
+  - first:
+      213: -8075921118212559124
+    second: TempCharacterSprites_45
+  - first:
+      213: 5113443211738890823
+    second: TempCharacterSprites_46
+  - first:
+      213: -3452837017596595865
+    second: TempCharacterSprites_47
+  - first:
+      213: 8556919162746277083
+    second: TempCharacterSprites_48
+  - first:
+      213: 8156224149437350732
+    second: TempCharacterSprites_49
+  - first:
+      213: -110726686136558258
+    second: TempCharacterSprites_50
+  - first:
+      213: 6021843626038445369
+    second: TempCharacterSprites_51
+  - first:
+      213: -1727368968281263028
+    second: TempCharacterSprites_52
+  - first:
+      213: 2370298374630189647
+    second: TempCharacterSprites_53
+  - first:
+      213: -1886790559018713787
+    second: TempCharacterSprites_54
+  - first:
+      213: -4891559103856627508
+    second: TempCharacterSprites_55
+  - first:
+      213: -3083986337992262207
+    second: TempCharacterSprites_56
+  - first:
+      213: 8604189531315336894
+    second: TempCharacterSprites_57
+  - first:
+      213: 5310139871895594661
+    second: TempCharacterSprites_58
+  - first:
+      213: -8244197190029675328
+    second: TempCharacterSprites_59
+  - first:
+      213: 8831314225631396452
+    second: TempCharacterSprites_60
+  - first:
+      213: 4542132465366405271
+    second: TempCharacterSprites_61
+  - first:
+      213: 5900829375286082660
+    second: TempCharacterSprites_62
+  - first:
+      213: -4767401853932517690
+    second: TempCharacterSprites_63
+  - first:
+      213: -5751389425132621263
+    second: TempCharacterSprites_64
+  - first:
+      213: 7976500203721779451
+    second: TempCharacterSprites_65
+  - first:
+      213: -5905902161293965363
+    second: TempCharacterSprites_66
+  - first:
+      213: 312572041403307558
+    second: TempCharacterSprites_67
+  - first:
+      213: 2220613404921345774
+    second: TempCharacterSprites_68
+  - first:
+      213: 3567631768049183570
+    second: TempCharacterSprites_69
+  - first:
+      213: 5070931626295316406
+    second: TempCharacterSprites_70
+  - first:
+      213: 8616605185311299430
+    second: TempCharacterSprites_71
+  - first:
+      213: 6979054529355206638
+    second: TempCharacterSprites_72
+  - first:
+      213: -2033480795506617609
+    second: TempCharacterSprites_73
+  - first:
+      213: 7021910406030682222
+    second: TempCharacterSprites_74
+  - first:
+      213: 830838967602054878
+    second: TempCharacterSprites_75
+  - first:
+      213: -7958647530496135855
+    second: TempCharacterSprites_76
+  - first:
+      213: -4895312186108673997
+    second: TempCharacterSprites_77
+  - first:
+      213: -2144795968277646350
+    second: TempCharacterSprites_78
+  - first:
+      213: -1942041050709326926
+    second: TempCharacterSprites_79
+  - first:
+      213: 1230278211736356588
+    second: TempCharacterSprites_80
+  - first:
+      213: 6796586164188429426
+    second: TempCharacterSprites_81
+  - first:
+      213: 3917798358591570299
+    second: TempCharacterSprites_82
+  - first:
+      213: 1075406666489190521
+    second: TempCharacterSprites_83
+  - first:
+      213: -1550546703947293984
+    second: TempCharacterSprites_84
+  - first:
+      213: -1617823155453966418
+    second: TempCharacterSprites_85
+  - first:
+      213: 6306832682928923662
+    second: TempCharacterSprites_86
+  - first:
+      213: 6169025857154710755
+    second: TempCharacterSprites_87
+  - first:
+      213: 5646150704309129836
+    second: TempCharacterSprites_88
+  - first:
+      213: 5347478960115984643
+    second: TempCharacterSprites_89
+  - first:
+      213: 4733374988734264827
+    second: TempCharacterSprites_90
+  - first:
+      213: -6000699274885730311
+    second: TempCharacterSprites_91
+  - first:
+      213: 5175409492618654731
+    second: TempCharacterSprites_92
+  - first:
+      213: -6365934528011109136
+    second: TempCharacterSprites_93
+  - first:
+      213: 4452971103546775207
+    second: TempCharacterSprites_94
+  - first:
+      213: -4276287650315837290
+    second: TempCharacterSprites_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TempCharacterSprites_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 503
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e310a788cdf480800000000000000
+      internalID: -8863708006763470558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 503
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdae6b182baaf340800000000000000
+      internalID: 4898415733466115569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 503
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4e3bda6bb6265c0800000000000000
+      internalID: -4223695068177636157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 503
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a6c6c4d4c47f540800000000000000
+      internalID: 5041582202742925969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 503
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa123f6f188c57a0800000000000000
+      internalID: -6387080502927287566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 503
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86ecc818f8c597c0800000000000000
+      internalID: -4065122120738478451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 503
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0596a9e3e02d690800000000000000
+      internalID: -7578979560869768966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 503
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67c8d592b14afbe0800000000000000
+      internalID: -1442768495344826514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 503
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a399c1f7a9d370800000000000000
+      internalID: 8347888041218778172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 503
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1279115baaafc0d0800000000000000
+      internalID: -3400311540864683492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 503
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05e0d3204b2a7cf0800000000000000
+      internalID: -253842874514217713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 503
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469b729eff8a38a10800000000000000
+      internalID: 1910556484017043812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 431
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303372f33f31c3020800000000000000
+      internalID: 2322753443273847555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 431
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dda7da1407275b0800000000000000
+      internalID: -5372107978113884808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 431
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb221bb11835ce70800000000000000
+      internalID: 9134769067995048895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 431
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1fec948fcf33960800000000000000
+      internalID: 7580680741115064769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 431
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c27698a3529dc720800000000000000
+      internalID: 2868109425713246919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 431
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d3e1b77bbfa84a0800000000000000
+      internalID: -6590178339240133285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 431
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e4736f9243be940800000000000000
+      internalID: 5326408339124866663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 431
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab8fdb2db87fd340800000000000000
+      internalID: 4890760474227870639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 431
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aacca4ffbc05210800000000000000
+      internalID: 1319778988151581272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 431
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04f1646eb866a540800000000000000
+      internalID: 5018814001688212491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 431
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de29968dc67bd6010800000000000000
+      internalID: 1183803955183457005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 431
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b016078c0203de0800000000000000
+      internalID: -1355547442587563188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 359
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc15bc6cf71ce5a0800000000000000
+      internalID: -6490786590024721211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 359
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646464f798cc4b7c0800000000000000
+      internalID: -4056392473436076474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 359
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a0e91272ec3ddd0800000000000000
+      internalID: -2462397903778477522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 359
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de01712c51792be30800000000000000
+      internalID: 4517839495912427757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 359
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf6a4247d4e35250800000000000000
+      internalID: 5932336747358351327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 359
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c6fb2823240ba0800000000000000
+      internalID: -6123730937873775751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 359
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac7d0c17b843720800000000000000
+      internalID: 2825036186951076450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 359
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d3177ab7f5e4350800000000000000
+      internalID: 6002840338026282283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_32
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 359
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e376854036e41d90800000000000000
+      internalID: -7127819215221394458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_33
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 359
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111a2f10585a6f240800000000000000
+      internalID: 4825226041455976721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_34
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 359
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd48648121f26250800000000000000
+      internalID: 5936572385085377998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_35
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 359
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8bbf0b809afe310800000000000000
+      internalID: 1436552660948596898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 287
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223e8f96c46f83fa0800000000000000
+      internalID: -5820631710320499934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 287
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a5679f7b683dff0800000000000000
+      internalID: -12518249229559226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 287
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5456b5968289f2350800000000000000
+      internalID: 5994176928387130693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37535bac4ba221a40800000000000000
+      internalID: 5337375464370812275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 287
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba195feb5dc20320800000000000000
+      internalID: 2522804536022211256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 287
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a022047ba4510f330800000000000000
+      internalID: 3742514700991078922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961aa5586f71aa500800000000000000
+      internalID: 408165063797154153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 287
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2498e3c64d470c0800000000000000
+      internalID: -4578801359758212406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_44
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 287
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca45bb0022b682d0800000000000000
+      internalID: -3276735828160329010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_45
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 287
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee6dd2f7809cef80800000000000000
+      internalID: -8075921118212559124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_46
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 287
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74244d6428996f640800000000000000
+      internalID: 5113443211738890823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_47
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761f5d2c60f0510d0800000000000000
+      internalID: -3452837017596595865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 215
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc893b54a840c670800000000000000
+      internalID: 8556919162746277083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 215
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430daf76aab03170800000000000000
+      internalID: 8156224149437350732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d9ca56aae967ef0800000000000000
+      internalID: -110726686136558258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 215
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935c8fe6fd2e19350800000000000000
+      internalID: 6021843626038445369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 215
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44ff8943172708e0800000000000000
+      internalID: -1727368968281263028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 215
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aa48730ddf4e020800000000000000
+      internalID: 2370298374630189647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 215
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54df024bbf5c0d5e0800000000000000
+      internalID: -1886790559018713787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 215
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc03cc069e0bd1cb0800000000000000
+      internalID: -4891559103856627508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 215
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd30d7e3ca7335d0800000000000000
+      internalID: -3083986337992262207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_57
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 215
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67f22bac8386770800000000000000
+      internalID: 8604189531315336894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 215
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a9f3441861b940800000000000000
+      internalID: 5310139871895594661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_59
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 215
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4f106d55ab69d80800000000000000
+      internalID: -8244197190029675328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 143
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4620d967f712f8a70800000000000000
+      internalID: 8831314225631396452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 143
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901fe87965e80f30800000000000000
+      internalID: 4542132465366405271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cfd1a8d05f3e150800000000000000
+      internalID: 5900829375286082660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 143
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c640dac549c6ddb0800000000000000
+      internalID: -4767401853932517690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 143
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132380e3ac5fe20b0800000000000000
+      internalID: -5751389425132621263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 143
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8eaa98ca832be60800000000000000
+      internalID: 7976500203721779451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc78cdd66450a0ea0800000000000000
+      internalID: -5905902161293965363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_67
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 143
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62610969d9a765400800000000000000
+      internalID: 312572041403307558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_68
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 143
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6becf502431de10800000000000000
+      internalID: 2220613404921345774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 143
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b68ffd036c28130800000000000000
+      internalID: 3567631768049183570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_70
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 143
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf40a972719f5640800000000000000
+      internalID: 5070931626295316406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_71
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 143
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667d44863c4549770800000000000000
+      internalID: 8616605185311299430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef4c4a2e159ad060800000000000000
+      internalID: 6979054529355206638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2df368dff97c3e0800000000000000
+      internalID: -2033480795506617609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 71
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e3148f46d27160800000000000000
+      internalID: 7021910406030682222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 71
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6097993abb78b00800000000000000
+      internalID: 830838967602054878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dec3cdc343d8190800000000000000
+      internalID: -7958647530496135855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_77
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 71
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3300a52d08b501cb0800000000000000
+      internalID: -4895312186108673997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 71
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3fe133e672c32e0800000000000000
+      internalID: -2144795968277646350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_79
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b38e3924fb7c05e0800000000000000
+      internalID: -1942041050709326926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 71
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6c279e383d21110800000000000000
+      internalID: 1230278211736356588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_81
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 71
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c39c14b13525e50800000000000000
+      internalID: 6796586164188429426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_82
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 71
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71857989d0de5630800000000000000
+      internalID: 3917798358591570299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 71
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978dc295aac9cee00800000000000000
+      internalID: 1075406666489190521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9197ecf95b7ae0800000000000000
+      internalID: -1550546703947293984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7c3c569665c89e0800000000000000
+      internalID: -1617823155453966418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046dcbf8ee568750800000000000000
+      internalID: 6306832682928923662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecf7e90558cc9550800000000000000
+      internalID: 6169025857154710755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_88
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62daa6a6282b5e40800000000000000
+      internalID: 5646150704309129836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_89
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a69538cf063a40800000000000000
+      internalID: 5347478960115984643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_90
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57938497350b140800000000000000
+      internalID: 4733374988734264827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_91
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffed747dcb39bca0800000000000000
+      internalID: -6000699274885730311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0438b6538fb2d740800000000000000
+      internalID: 5175409492618654731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcf0826648a7a7a0800000000000000
+      internalID: -6365934528011109136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_94
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a61cf530a12ccd30800000000000000
+      internalID: 4452971103546775207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempCharacterSprites_95
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e88de90397a4c0800000000000000
+      internalID: -4276287650315837290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 594a233583cf6e443bd7dcd6db877c3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2335339629954581314
+    second: JTTV_Rogue_Attack_0
+  - first:
+      213: -8568958840767432107
+    second: JTTV_Rogue_Attack_1
+  - first:
+      213: -1485424677240824801
+    second: JTTV_Rogue_Attack_2
+  - first:
+      213: 8183912735498692329
+    second: JTTV_Rogue_Attack_3
+  - first:
+      213: -6952080793231806689
+    second: JTTV_Rogue_Attack_4
+  - first:
+      213: -471535882459714192
+    second: JTTV_Rogue_Attack_5
+  - first:
+      213: -1273170986032349100
+    second: JTTV_Rogue_Attack_6
+  - first:
+      213: -4061254876627856001
+    second: JTTV_Rogue_Attack_7
+  - first:
+      213: 4142071239628044920
+    second: JTTV_Rogue_Attack_8
+  - first:
+      213: 7858582752492566544
+    second: JTTV_Rogue_Attack_9
+  - first:
+      213: -9065416637075495713
+    second: JTTV_Rogue_Attack_10
+  - first:
+      213: 2307556723668128636
+    second: JTTV_Rogue_Attack_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 636
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243c551350bc86020800000000000000
+      internalID: 2335339629954581314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 702
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a3d19a551f41980800000000000000
+      internalID: -8568958840767432107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 636
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c167c4026b26be0800000000000000
+      internalID: -1485424677240824801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 702
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6e130d549139170800000000000000
+      internalID: 8183912735498692329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 380
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f2a9d2a5f358f90800000000000000
+      internalID: -6952080793231806689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 446
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d632bfc94c479f0800000000000000
+      internalID: -471535882459714192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 380
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4504537dbb9c45ee0800000000000000
+      internalID: -1273170986032349100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 446
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f751648053683a7c0800000000000000
+      internalID: -4061254876627856001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 124
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3468c8d79b7930800000000000000
+      internalID: 4142071239628044920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 190
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b458706b4f0d60800000000000000
+      internalID: 7858582752492566544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 190
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e236699b213280800000000000000
+      internalID: -9065416637075495713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JTTV_Rogue_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 124
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c739d4d3d96160020800000000000000
+      internalID: 2307556723668128636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JTTV_Rogue_Attack_0: 2335339629954581314
+      JTTV_Rogue_Attack_1: -8568958840767432107
+      JTTV_Rogue_Attack_10: -9065416637075495713
+      JTTV_Rogue_Attack_11: 2307556723668128636
+      JTTV_Rogue_Attack_2: -1485424677240824801
+      JTTV_Rogue_Attack_3: 8183912735498692329
+      JTTV_Rogue_Attack_4: -6952080793231806689
+      JTTV_Rogue_Attack_5: -471535882459714192
+      JTTV_Rogue_Attack_6: -1273170986032349100
+      JTTV_Rogue_Attack_7: -4061254876627856001
+      JTTV_Rogue_Attack_8: 4142071239628044920
+      JTTV_Rogue_Attack_9: 7858582752492566544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
